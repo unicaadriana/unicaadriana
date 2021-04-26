@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @unicaadriana
-- 🌱 I’m currently studying internet systems
+-  Oi, sou Adriana ;)
+-  Graduanda em Sistemas para Internet
